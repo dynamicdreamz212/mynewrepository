@@ -1,5 +1,23 @@
 1.for commit today first commit
+<<<<<<< HEAD
 
 2.for commit today second commit
 
 3.for commit today third commit
+=======
+>>>>>>> parent of 3c903e6... 06-07-2020 second commit
+
+
+1065  vim jatin
+ 1066  ls -al
+ 1067  git status
+ 1068  vim jatin.txt
+ 1069  git restore --staged
+ 1070  git restore --staged .
+ 1071  git status
+ 1072  git restore jatin.txt
+ 1073  git restore jatin
+ 1074  git status
+ 1075  rm -rf jatin
+ 1076  git status
+
